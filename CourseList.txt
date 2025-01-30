@@ -1,4 +1,4 @@
-## Course list
+## Course list ##
 CSE:
 1001/2 fund of soft dev 1 & 2
 1101 comp discip & careers
