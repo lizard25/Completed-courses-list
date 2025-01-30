@@ -39,3 +39,4 @@ PSY 1411 intro to psych
 HUM 2051/2 Civ 1 & 2
 HUM 2480 intro to pol sci
 LNG 2101/2 intermediate french 1 & 2
+HUM 3351 History of Science and Technology
