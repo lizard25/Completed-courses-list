@@ -14,7 +14,7 @@ CSE:
 4083 formal languages & automata theory
 4224 intro to machine learning (also listed as MTH)
 4250 prog lang concepts
-4280 computer graphics algorithms
+5/4280 computer graphics algorithms
 4301 intro to artificial intelligence
 MTH:
 1001/1002/2001 calculus 1 & 2 & 3
